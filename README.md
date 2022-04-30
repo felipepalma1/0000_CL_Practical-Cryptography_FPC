@@ -1,1 +1,1 @@
-Practica Cryptography with Python
+Practical Cryptography with Python
